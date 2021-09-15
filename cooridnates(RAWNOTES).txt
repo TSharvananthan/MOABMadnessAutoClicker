@@ -1,0 +1,37 @@
+coordinates = x, y
+
+STAGE 1: Preperation: 
+------------------------
+click off powershell (since its full screen): 222, 165
+open moab madness: 638, 414
+target monkeyace1: 1231, 535
+place monkeyace1: 514, 296
+upgrate monkeyace1 (used four times): 1009, 905
+target monkeyace2: 1231, 535
+place monkeyace2: 536, 459
+upgrate monkeyace2 (used four times): 1009, 905
+
+STEP 2: Executing The Mission: 
+------------------------------
+ground zero space: 52, 778
+
+STEP 3: Reset:
+--------------
+exit button: 155, 189
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
